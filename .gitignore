@@ -1,0 +1,9 @@
+# IDE and Text editor
+.vscode/
+.idea/
+
+# Packages and distributions
+venv/
+build/
+dist/
+*.egg-info
